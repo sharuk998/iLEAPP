@@ -108,3 +108,4 @@ instance/
 .python-version
 
 /.obsidian
+venv_x86/
